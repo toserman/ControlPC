@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         sendUDP_btn = (Button) findViewById(R.id.sendUDPbutton);
-        sendUDP_btn.setOnClickListener(this);
+        sendUDP_btn.setOnClickListener(this); //Test
 
     }
 
