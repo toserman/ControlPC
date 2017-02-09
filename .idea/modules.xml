@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ControlHomePC.iml" filepath="$PROJECT_DIR$/ControlHomePC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlPC.iml" filepath="$PROJECT_DIR$/ControlPC.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
